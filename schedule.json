@@ -1,0 +1,308 @@
+{
+  "last_updated": "2024-05-15T15:30:00+07:00",
+  "timezone": "Asia/Jakarta",
+  "matches": [
+    {
+      "id": "SOCCER_001",
+      "time": "18:30",
+      "date": "2024-05-15",
+      "sport": "soccer",
+      "competition": "AFC U-23 Asian Cup",
+      "match": "Australia U23 vs Thailand U23",
+      "region": "Asia",
+      "status": "upcoming",
+      "channels": [
+        "SPORT1+ DE",
+        "Nova Sport Bulgaria",
+        "Sportklub 1 Croatia",
+        "beIN Sports MENA 6"
+      ]
+    },
+    {
+      "id": "SOCCER_002",
+      "time": "19:30",
+      "date": "2024-05-15",
+      "sport": "soccer",
+      "competition": "Egypt Cup",
+      "match": "Haras El Hodood vs Smouha",
+      "region": "Egypt",
+      "status": "upcoming",
+      "channels": [
+        "ONTime Sports Egypt"
+      ]
+    },
+    {
+      "id": "SOCCER_003",
+      "time": "21:00",
+      "date": "2024-05-15",
+      "sport": "soccer",
+      "competition": "AFC U-23 Asian Cup",
+      "match": "Iraq U23 vs China PR U23",
+      "region": "Asia",
+      "status": "upcoming",
+      "channels": [
+        "SPORT1+ DE",
+        "Nova Sport Bulgaria",
+        "Sportklub 3 Croatia",
+        "beIN Sports MENA 6"
+      ]
+    },
+    {
+      "id": "SOCCER_004",
+      "time": "21:30",
+      "date": "2024-05-15",
+      "sport": "soccer",
+      "competition": "Qatar Stars League",
+      "match": "Al Shahaniya vs Al Duhail",
+      "region": "Qatar",
+      "status": "upcoming",
+      "channels": [
+        "Alkass One",
+        "beIN Sports MENA 5"
+      ]
+    },
+    {
+      "id": "SOCCER_005",
+      "time": "21:55",
+      "date": "2024-05-15",
+      "sport": "soccer",
+      "competition": "Saudi Pro League",
+      "match": "Al Hilal vs Al Hazm",
+      "region": "Saudi Arabia",
+      "status": "upcoming",
+      "channels": [
+        "Thmanyah",
+        "Fox Sports 2 USA",
+        "Sportdigital FUSSBALL DE",
+        "DAZN 2 DE",
+        "Movistar Liga de Campeones",
+        "#Vamos Spain",
+        "Sport TV1 Portugal",
+        "FOX Deportes",
+        "Prima Sport 2 Romania",
+        "Sportklub 1 Croatia",
+        "Cosmote Sport 3 Greece",
+        "MAX Sport 4 Bulgaria"
+      ]
+    },
+    {
+      "id": "CRICKET_001",
+      "time": "22:30",
+      "date": "2024-05-15",
+      "sport": "cricket",
+      "competition": "SA20",
+      "match": "Joburg Super Kings vs Paarl Royals",
+      "region": "South Africa",
+      "status": "upcoming",
+      "channels": [
+        "Willow Cricket",
+        "Sky Sports Cricket UK",
+        "SuperSport Cricket",
+        "SuperSport Grandstand"
+      ]
+    },
+    {
+      "id": "TENNIS_001",
+      "time": "15:30",
+      "date": "2024-05-15",
+      "sport": "tennis",
+      "competition": "United Cup Tennis Quarterfinals",
+      "match": "Teams TBA",
+      "region": "International",
+      "status": "upcoming",
+      "channels": [
+        "Tennis Channel USA",
+        "TSN4",
+        "Sky Sports Tennis UK",
+        "Sky Sport 3 NZ",
+        "Sky Sports Main Event",
+        "Sky Sports Tennis DE",
+        "Polsat Sport 1 Poland",
+        "SuperSport Tennis",
+        "Digi Sport 2 Romania"
+      ]
+    },
+    {
+      "id": "MOTORSPORT_001",
+      "time": "02:30",
+      "date": "2024-05-16",
+      "sport": "motorsport",
+      "competition": "Marathon Camp - Hail Dakar Rally",
+      "match": "Dakar Rally Stage",
+      "region": "International",
+      "status": "upcoming",
+      "channels": [
+        "Sport TV4 Portugal",
+        "L'Equipe France"
+      ]
+    },
+    {
+      "id": "WWE_001",
+      "time": "08:00",
+      "date": "2024-05-16",
+      "sport": "wrestling",
+      "competition": "TNA iMPACT!",
+      "match": "TNA iMPACT! Wrestling",
+      "region": "International",
+      "status": "upcoming",
+      "channels": [
+        "AXS TV USA",
+        "Sportsnet 360"
+      ]
+    },
+    {
+      "id": "FOOTBALL_001",
+      "time": "07:30",
+      "date": "2024-05-16",
+      "sport": "football",
+      "competition": "NCAA FBS",
+      "match": "Miami RedHawks vs Mississippi",
+      "region": "USA",
+      "status": "upcoming",
+      "channels": [
+        "TSN1",
+        "ACC Network USA",
+        "ESPN USA",
+        "ESPNU USA",
+        "ESPN2 USA",
+        "SEC Network USA",
+        "beIN Sports 2 France",
+        "ESPN Deportes",
+        "ESPN BR",
+        "Sportklub 1 Croatia"
+      ]
+    },
+    {
+      "id": "FOOTBALL_002",
+      "time": "07:40",
+      "date": "2024-05-16",
+      "sport": "football",
+      "competition": "CFP Semifinal at VRBO Fiesta Bowl",
+      "match": "Miami vs Ole Miss",
+      "region": "USA",
+      "status": "upcoming",
+      "channels": [
+        "ESPNEWS"
+      ]
+    },
+    {
+      "id": "BASKETBALL_001",
+      "time": "05:00",
+      "date": "2024-05-16",
+      "sport": "basketball",
+      "competition": "NCAA",
+      "match": "Chicago State vs Fairleigh Dickinson",
+      "region": "USA",
+      "status": "upcoming",
+      "channels": [
+        "YES USA"
+      ]
+    },
+    {
+      "id": "BASKETBALL_002",
+      "time": "06:30",
+      "date": "2024-05-16",
+      "sport": "basketball",
+      "competition": "NCAA",
+      "match": "Northwestern vs Michigan State",
+      "region": "USA",
+      "status": "upcoming",
+      "channels": [
+        "BTN USA"
+      ]
+    },
+    {
+      "id": "NBA_001",
+      "time": "07:00",
+      "date": "2024-05-16",
+      "sport": "basketball",
+      "competition": "NBA",
+      "match": "Charlotte Hornets vs Indiana Pacers",
+      "region": "USA",
+      "status": "upcoming",
+      "channels": [
+        "NBA League Pass",
+        "FanDuel Sports Network Indiana"
+      ]
+    },
+    {
+      "id": "NBA_002",
+      "time": "08:00",
+      "date": "2024-05-16",
+      "sport": "basketball",
+      "competition": "NBA",
+      "match": "Chicago Bulls vs Miami Heat",
+      "region": "USA",
+      "status": "upcoming",
+      "channels": [
+        "NBA League Pass",
+        "Chicago Sports Network",
+        "Bally Sports Sun",
+        "NBA TV USA",
+        "Cosmote Sport 4 Greece"
+      ]
+    },
+    {
+      "id": "NBA_003",
+      "time": "08:00",
+      "date": "2024-05-16",
+      "sport": "basketball",
+      "competition": "NBA",
+      "match": "Minnesota Timberwolves vs Cleveland Cavaliers",
+      "region": "USA",
+      "status": "upcoming",
+      "channels": [
+        "NBA League Pass",
+        "FanDuel Sports Network North",
+        "FanDuel Sports Network Ohio",
+        "Sport TV1 Portugal",
+        "beIN Sports 1 France",
+        "Arena 1 Premium Serbia",
+        "beIN SPORTS MENA English 1",
+        "beIN SPORTS MENA 8"
+      ]
+    },
+    {
+      "id": "WINTERSPORTS_001",
+      "time": "01:00",
+      "date": "2024-05-16",
+      "sport": "wintersports",
+      "competition": "Grand Slam of Curling",
+      "match": "Players' Championship - Draw 9",
+      "region": "International",
+      "status": "upcoming",
+      "channels": [
+        "Sportsnet East",
+        "Sportsnet Ontario",
+        "Sportsnet West"
+      ]
+    },
+    {
+      "id": "WINTERSPORTS_002",
+      "time": "05:00",
+      "date": "2024-05-16",
+      "sport": "wintersports",
+      "competition": "Grand Slam of Curling",
+      "match": "Players' Championship - Draw 10",
+      "region": "International",
+      "status": "upcoming",
+      "channels": [
+        "Sportsnet East",
+        "Sportsnet West"
+      ]
+    },
+    {
+      "id": "WINTERSPORTS_003",
+      "time": "09:00",
+      "date": "2024-05-16",
+      "sport": "wintersports",
+      "competition": "Grand Slam of Curling",
+      "match": "Players' Championship - Draw 11",
+      "region": "International",
+      "status": "upcoming",
+      "channels": [
+        "Sportsnet East"
+      ]
+    }
+  ]
+}
